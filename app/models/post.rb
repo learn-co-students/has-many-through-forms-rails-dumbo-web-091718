@@ -10,4 +10,6 @@ class Post < ActiveRecord::Base
     end
   end
 
+#Why, hello there!
+
 end
